@@ -1,0 +1,161 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.text-box{
+  background-image: url(/home/umar/Downloads/task/mub.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:700px;
+  width: 1300px;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(119, 28, 28);
+  font: optional;
+  font-size: large;
+  font-display: unset;
+  margin: 1rem 20rem;
+}
+h3{
+  font: optional;
+  font-size: large;
+  font-display: unset;
+  margin: 1rem 20rem;
+}
+p{
+  color: rgb(34, 68, 1);
+ 
+  font: optional;
+  font-size: large;
+  font-display: unset;
+  margin: 1rem 20rem;
+}
+.image-box img{
+  
+  width: 150px;
+  height: 150px;
+  z-index: -1;
+  border-radius: 50%;
+  margin: 1rem 34rem;
+
+}
+.image-box p{
+  margin: 1rem 34rem;
+  color: rgb(168, 0, 34);
+  font: optional;
+  font-size: large;
+  font-display: unset;
+}
+#overflowTest {
+  background:url(/home/umar/Downloads/task/1239451_ce1e2.gif);
+  color: white;
+  z-index: 1;
+}
+@media screen and (max-width: 320px) {
+  .text-box{
+    background-image: url(/home/umar/Downloads/task/mub.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:212px;
+    width: 320px;
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(119, 28, 28);
+    font: optional;
+    font-size: large;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  h3{
+    font: optional;
+    font-size: large;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  p{
+    color: rgb(34, 68, 1);
+   
+    font: optional;
+    font-size: large;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  .image-box img{
+    
+    width: 100px;
+    height: 100px;
+    z-index: -1;
+    border-radius: 50%;
+    margin: 0rem 6rem;
+  
+  }
+  .image-box p{
+    margin: 0rem 6rem;
+    color: rgb(168, 0, 34);
+    font: optional;
+    font-size: large;
+    font-display: unset;
+  }
+  #overflowTest {
+    background:url(/home/umar/Downloads/task/1239451_ce1e2.gif);
+    color: white;
+    z-index: 1;
+  }
+}
+@media screen and (max-width: 320px) {
+  .text-box{
+    background-image: url(/home/umar/Downloads/task/mub.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:212px;
+    width: 320px;
+  }
+  h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(119, 28, 28);
+    font: optional;
+    font-size: 10px;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  h3{
+    font: optional;
+    font-size: 10px;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  p{
+    color: rgb(34, 68, 1);
+   
+    font: optional;
+    font-size: 10px;
+    font-display: unset;
+    margin: 0rem 1rem;
+  }
+  .image-box img{
+    
+    width: 100px;
+    height: 100px;
+    z-index: -1;
+    border-radius: 50%;
+    margin: 0rem 6rem;
+  
+  }
+  .image-box p{
+    margin: 0rem 6rem;
+    color: rgb(168, 0, 34);
+    font: optional;
+    font-size: large;
+    font-display: unset;
+  }
+  #overflowTest {
+    background:url(/home/umar/Downloads/task/1239451_ce1e2.gif);
+    color: white;
+    z-index: 1;
+  }
+}
